@@ -1,0 +1,15 @@
+beautifulsoup4==4.15.0
+certifi==2026.10.23
+charset-normalizer==3.5.2
+cloudscraper==1.2.71
+greenlet==3.5.6
+idna==3.20
+mwparserfromhell==0.7.2
+playwright==1.64.1
+pyee==14.0.0
+pyparsing==3.3.3
+requests==2.34.2
+requests-toolbelt==1.0.0
+soupsieve==3.0.4
+typing_extensions==4.16.0
+urllib3==2.8.0
