@@ -1,0 +1,6 @@
+wiki_url,wikiid,dump_url,http_status,valid
+https://1980sgamer.fandom.com/wiki/Special:Statistics,1980sgamer243,https://s3.amazonaws.com/wikia_xml_dumps/1/19/1980sgamer243_pages_current.xml.7z,200,True
+https://fortnite.fandom.com/wiki/Special:Statistics,fortnite,https://s3.amazonaws.com/wikia_xml_dumps/f/fo/fortnite_pages_current.xml.7z,200,True
+https://gta.fandom.com/wiki/Special:Statistics,gtawiki,https://s3.amazonaws.com/wikia_xml_dumps/g/gt/gtawiki_pages_current.xml.7z,200,True
+https://rickandmorty.fandom.com/wiki/Special:Statistics,rickandmorty292,https://s3.amazonaws.com/wikia_xml_dumps/r/ri/rickandmorty292_pages_current.xml.7z,200,True
+https://gameofthrones.fandom.com/wiki/Special:Statistics,gameofthrones,https://s3.amazonaws.com/wikia_xml_dumps/g/ga/gameofthrones_pages_current.xml.7z,200,True
